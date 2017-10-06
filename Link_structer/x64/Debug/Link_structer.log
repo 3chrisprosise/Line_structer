@@ -1,8 +1,11 @@
 ﻿  Link_structer.cpp
-c:\users\chrisprosise\desktop\link_structer\link_structer\link_structer.cpp(79): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+c:\users\chrisprosise\desktop\link_structer\link_structer\link_structer.cpp(137): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(455): note: 参见“getche”的声明
-c:\users\chrisprosise\desktop\link_structer\link_structer\link_structer.cpp(91): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+c:\users\chrisprosise\desktop\link_structer\link_structer\link_structer.cpp(155): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(455): note: 参见“getche”的声明
-c:\users\chrisprosise\desktop\link_structer\link_structer\link_structer.cpp(75): warning C4101: “get_input”: 未引用的局部变量
+c:\users\chrisprosise\desktop\link_structer\link_structer\link_structer.cpp(165): warning C4101: “tail”: 未引用的局部变量
+c:\users\chrisprosise\desktop\link_structer\link_structer\link_structer.cpp(499): warning C4476: "printf": 格式说明符中的类型字段字符“\xe8”未知
+c:\users\chrisprosise\desktop\link_structer\link_structer\link_structer.cpp(695): warning C4476: "printf": 格式说明符中的类型字段字符“\xe8”未知
+c:\users\chrisprosise\desktop\link_structer\link_structer\link_structer.cpp(244): warning C4101: “ter”: 未引用的局部变量
   Link_structer.vcxproj -> C:\Users\ChrisProsise\Desktop\Link_structer\x64\Debug\Link_structer.exe
   Link_structer.vcxproj -> C:\Users\ChrisProsise\Desktop\Link_structer\x64\Debug\Link_structer.pdb (Partial PDB)
